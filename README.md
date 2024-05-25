@@ -3,6 +3,6 @@ Basic practice projects on different languages and concepts are attached to this
 ![Última confirmación de GitHub](https://img.shields.io/github/last-commit/jucaicedoa/varios?style=plastic)
 ## Web Development
 ### Imitando_1
-This project only contains HTML and CSS and attempts to mimic the following page. (basic form) [page](https://www.elian.codes)
+This project only contains HTML and CSS and attempts to mimic the following page. (basic form) [page](https://www.elian.codes) <br>
     -Not finished: Missing content, missing adaptive nav, missing responsive design adjustment.
 
